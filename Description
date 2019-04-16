@@ -1,0 +1,7 @@
+The banker’s algorithm is a resource allocation and deadlock avoidance algorithm that tests for safety by simulating the allocation for predetermined maximum possible amounts of all resources, then makes an “s-state” check to test for possible activities, before deciding whether allocation should be allowed to continue. 
+There 'n' no of processes and 'm' no of resources present.
+Available Matrix is a 1-D matrix with 'm' values, having m resources of each types.
+Max Matrix :
+It is a 2-d array of size ‘n*m’ that defines the maximum demand of each process in a system.
+Allocation Matrix :
+It is a 2-d array of size ‘n*m’ that defines the number of resources of each type currently allocated to each process.
